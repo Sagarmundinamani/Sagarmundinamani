@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sagar mundinamani</h1>
-<h3 align="center">A</h3>
+<h3 align="center">## 🚀 Full Stack Developer | Building Scalable Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarmundinamani&label=Profile%20views&color=0e75b6&style=flat" alt="sagarmundinamani" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarmundinamani" alt="sagarmundinamani" /></a> </p>
+- 🔭 I’m currently working on [Ecommerce Platform Integration](https://github.com/Sagarmundinamani/E-commerce_app.git)
 
 - 🌱 I’m currently learning **java**
+
+- 👯 I’m looking to collaborate on [SpeechRecognition](https://github.com/Sagarmundinamani/speechRecognization.git)
 
 - 💬 Ask me about **pyhton,c,java,react**
 
@@ -17,6 +17,7 @@
 <a href="https://kaggle.com/sagarmundinamani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sagarmundinamani18" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_mundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_mundinamani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sagar mundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar mundinamani" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sagar mundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sagar mundinamani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagar__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar__18" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sagar mundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sagar mundinamani" height="30" width="40" /></a>
 </p>
@@ -27,4 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarmundinamani&show_icons=true&locale=en" alt="sagarmundinamani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarmundinamani&" alt="sagarmundinamani" /></p>
+
+
 
