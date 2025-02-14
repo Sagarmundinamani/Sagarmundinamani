@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sagarmundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarmundinamani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sagar-mundinamani-b103b327a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-mundinamani-b103b327a" height="30" width="40" /></a>
 <a href="https://kaggle.com/sagarmundinamani18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sagarmundinamani18" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar_mundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar_mundinamani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sagar mundinamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagar mundinamani" height="30" width="40" /></a>
