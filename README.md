@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [SpeechRecognition](https://github.com/Sagarmundinamani/speechRecognization.git)
 
-- 💬 Ask me about **java,pyhton,c,java,react,javascript**
+- 💬 Ask me about **java,pyhton,react,javascript**
 
 - 📫 How to reach me **mundinamanisagar@gmail.com**
 
