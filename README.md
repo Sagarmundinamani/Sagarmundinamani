@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Ecommerce Platform Integration](https://github.com/Sagarmundinamani/E-commerce_app.git) 
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java full stack**
 
 - 👯 I’m looking to collaborate on [SpeechRecognition](https://github.com/Sagarmundinamani/speechRecognization.git)
 
-- 💬 Ask me about **java,pyhton,c,java,react**
+- 💬 Ask me about **java,pyhton,c,java,react,javascript**
 
 - 📫 How to reach me **mundinamanisagar@gmail.com**
 
